@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img width="800" alt="LMUSAÏQUE 스플래시" src="https://github.com/user-attachments/assets/aee4d284-c921-4ec1-a6a7-252d24c13915">
+  <img width="800" alt="LMUSAÏQUE 스플래시" src="https://github.com/user-attachments/assets/b18ec4af-b253-48f5-96e6-e82950970f5b">
 </p>
 
 ## 📣 Introduction

@@ -109,6 +109,39 @@
 </br>
 </br>
 
+## Monitoring
+
+
+<table>
+  <tr>
+    <td colspan="2" align="center"><b>Redis</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/577b08b7-4c0d-42e9-b33a-6b93bbe2d88f" width="100%"></td>
+    <td><img src="https://github.com/user-attachments/assets/5e76c8f4-707e-45f4-bc44-eba4012182a2" width="100%"></td>
+  </tr>
+
+  <tr>
+    <td colspan="2" align="center"><b>cAdvisor</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/d80b63e7-8e65-4f0c-8ed9-68abcaa88706" width="100%"></td>
+    <td><img src="https://github.com/user-attachments/assets/6727d7d4-609b-4104-895e-add7ff90fb0b" width="100%"></td>
+  </tr>
+
+  <tr>
+    <td colspan="2" align="center"><b>Node Exporter</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/5cc08d54-d1ea-43fc-b4eb-11b4ff3ade58" width="100%"></td>
+    <td><img src="https://github.com/user-attachments/assets/acf9f44a-f049-4759-8443-661ba8308d38" width="100%"></td>
+  </tr>
+</table>
+
+<br><br>
+
+
+
 ## Tech Stack
 
 |**분야**|**사용기술**|

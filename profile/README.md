@@ -52,7 +52,7 @@
 
 ## Demo
 
-### 박물관 선택 & 메인 페이지 & 영상 생성
+### 메인 페이지 & 영상 생성
 - 위치 기반으로 박물관을 선택하고, 온보딩과 함께 주변 박물관 정보를 확인할 수 있습니다.
 - 작품 사진과 설명을 찍어 업로드하면, AI가 주인공을 인식해 맞춤형 아바타 영상을 만들어줍니다.
 
@@ -61,15 +61,12 @@
   &nbsp;&nbsp;&nbsp;
 </p>
 
-<br>
 
-
-<br>
 
 ### 영상 재생
 - 생성된 쇼츠 영상을 바로 감상할 수 있습니다. 작품 인물이 직접 이야기를 들려줍니다.
 <p align="center">
-  <img src="./assets/신라금관_3x.gif" width="280"/>
+  <img src="./assets/gold_3x.gif" width="280"/>
   &nbsp;&nbsp;&nbsp;
 </p>
 
@@ -78,7 +75,7 @@
 ### 라이브러리
 - 모든 영상이 박물관별로 정리되어 저장되며, 원하는 영상을 쉽게 찾아볼 수 있습니다.
 <p align="center">
-  <img src="./assets/라이브러리_3x.gif" width="280"/>
+  <img src="./assets/liv_3x.gif" width="280"/>
   &nbsp;&nbsp;&nbsp;
 </p>
 

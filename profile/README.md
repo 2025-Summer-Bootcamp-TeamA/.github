@@ -29,6 +29,7 @@
     <tbody>
     <tr>
          <td width="600" align="center">
+            <img src="./assets/presentation_1.gif" width="280"/>
         </td>
         <td width="600" align="center">
             <div align="left">
@@ -44,6 +45,12 @@
 </tbody>
 </thead>
 </table>
+
+<p align="center">
+  <img src="./assets/presentation_2.gif" width="280"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/presentation_3.gif" width="280"/>
+</p>
 
 <br>
 <br>

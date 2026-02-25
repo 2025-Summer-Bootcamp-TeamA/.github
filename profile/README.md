@@ -29,7 +29,7 @@
     <tbody>
     <tr>
          <td width="600" align="center">
-            <img src="./assets/presentation_1.gif" width="280"/>
+            <img src="./assets/모나리자_시작.gif" width="280"/>
         </td>
         <td width="600" align="center">
             <div align="left">

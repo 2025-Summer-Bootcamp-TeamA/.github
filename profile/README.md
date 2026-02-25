@@ -1,7 +1,7 @@
 <h1 align="center">
-    
 
-🏛️ 당신의 눈 앞에서 살아나는 예술, "MUSAÏQUE" 🏛️
+
+🏛️ 당신의 눈 앞에서 살아나는 예술, "MUSAÏQUE" 🏛️
 
 
 </h1>
@@ -18,20 +18,20 @@
 </p>
 
 <p align="center">
-  <img width="800" alt="LMUSAÏQUE 스플래시" src="https://github.com/user-attachments/assets/b18ec4af-b253-48f5-96e6-e82950970f5b">
+  <img width="800" alt="LMUSAÏQUE 스플래시" src="https://github.com/user-attachments/assets/b18ec4af-b253-48f5-96e6-e82950970f5b">
 </p>
 
 ## 📣 Introduction
 
 <table width="1200px">
-    <thead>
-    </thead>
-    <tbody>
-    <tr>
-         <td width="600" align="center">
-        </td>
-        <td width="600" align="center">
-            <div align="left">
+    <thead>
+    </thead>
+    <tbody>
+    <tr>
+         <td width="600" align="center">
+        </td>
+        <td width="600" align="center">
+            <div align="left">
 <br/>
 <br><br>박물관을 방문하면 멋진 작품들은 많지만, 긴 설명문과 어려운 용어, 혹은 외국어로 된 안내 때문에 작품의 의미와 이야기를 제대로 이해하기 어렵다는 한계가 있었습니다. 이로 인해 많은 관람객들이 작품을 그냥 흘려보거나, 진짜 이야기를 놓치고 돌아가는 경우가 많았습니다.
 <br><br>MUSAÏQUE는 이런 문제를 해결하기 위해 기획되었습니다. 관람객이 작품 사진과 설명 사진을 스마트폰으로 촬영하면, AI가 작품 속 주인공을 인식해 실제로 작품이 말을 거는 것처럼 직접 자신의 역사와 제작 배경을 흥미진진한 쇼츠 영상으로 들려주는 새로운 형태의 AI 박물관 가이드 서비스입니다.
@@ -51,32 +51,39 @@
 
 ## Demo
 
-###
- 박물관 선택 & 메인 페이지
+### 박물관 선택 & 메인 페이지
 - 위치 기반으로 박물관을 선택하고, 온보딩과 함께 주변 박물관 정보를 확인할 수 있습니다.
 
+<p align="center">
+  <img src="./assets/모나리자_시작.gif" width="300"/>
+</p>
 
-<br>
 <br>
 
 ### 영상 생성
 - 작품 사진과 설명을 찍어 업로드하면, AI가 주인공을 인식해 맞춤형 아바타 영상을 만들어줍니다.
 
-<br>
+<p align="center">
+  <img src="./assets/영상생성데모.gif" width="300"/>
+</p>
+
 <br>
 
 ### 영상 재생
 - 생성된 쇼츠 영상을 바로 감상할 수 있습니다. 작품 인물이 직접 이야기를 들려줍니다.
 
-<br>
+<p align="center">
+  <img src="./assets/코뿔소데모.gif" width="300"/>
+</p>
+
 <br>
 
 ### 라이브러리
-
 - 모든 영상이 박물관별로 정리되어 저장되며, 원하는 영상을 쉽게 찾아볼 수 있습니다.
 
-<br>
-<br>
+<p align="center">
+  <img src="./assets/라이브러리_데모.gif" width="300"/>
+</p>
 
 <br>
 
@@ -84,10 +91,10 @@
 
 
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/9e222e3f-c147-49df-b833-3b8cc9f17ea2" width="850" height="600"/>
+   <img src="https://github.com/user-attachments/assets/9e222e3f-c147-49df-b833-3b8cc9f17ea2" width="850" height="600"/>
 </p>
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/233bb378-8567-4e2a-8b0e-755ecdcdf1f0" width="850" height="600"/>
+   <img src="https://github.com/user-attachments/assets/233bb378-8567-4e2a-8b0e-755ecdcdf1f0" width="850" height="600"/>
 </p>
 </br>
 </br>
@@ -95,7 +102,7 @@
 ## API
 
 <p align="center">
- <img src="https://github.com/user-attachments/assets/f7810832-3a7c-4279-a276-e0f3e26d3c16"/>
+ <img src="https://github.com/user-attachments/assets/f7810832-3a7c-4279-a276-e0f3e26d3c16"/>
 </p>
 
 </br>
@@ -103,7 +110,7 @@
 
 ## ERD
 <p align="center">
- <img src="https://github.com/user-attachments/assets/db3eacd2-cfd3-4ce3-af0f-705188ae48f3" width="850" height="600" />
+ <img src="https://github.com/user-attachments/assets/db3eacd2-cfd3-4ce3-af0f-705188ae48f3" width="850" height="600" />
 </p>
 
 </br>
@@ -211,7 +218,7 @@ TRAEFIK_DASHBOARD_USERS=
 RABBITMQ_DEFAULT_USER=
 RABBITMQ_DEFAULT_PASS=
 
-# Redis  
+# Redis
 REDIS_PASSWORD=
 
 # celery

@@ -29,7 +29,7 @@
     <tbody>
     <tr>
          <td width="600" align="center">
-            <img src="./assets/mona.mp4" width="280"/>
+            <img src="./assets/monal.gif" width="280"/>
         </td>
         <td width="600" align="center">
             <div align="left">
